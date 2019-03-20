@@ -1,0 +1,3 @@
+Logika :
+IF X + Besar Layar lebih dari ukuran gambar 
+Y + besar layar lebih dari ukuran gambar

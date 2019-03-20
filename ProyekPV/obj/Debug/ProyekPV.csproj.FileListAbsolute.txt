@@ -1,0 +1,70 @@
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\bin\Debug\ProyekPV.exe.config
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\bin\Debug\ProyekPV.exe
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\bin\Debug\ProyekPV.pdb
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\obj\Debug\ProyekPV.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\obj\Debug\ProyekPV.Form1.resources
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\obj\Debug\ProyekPV.Properties.Resources.resources
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\obj\Debug\ProyekPV.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\obj\Debug\ProyekPV.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\obj\Debug\ProyekPV.exe
+C:\Users\User\Desktop\Semester3\Proyek\ProyekPV\ProyekPV\obj\Debug\ProyekPV.pdb
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\bin\Debug\ProyekPV.exe.config
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\bin\Debug\ProyekPV.exe
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\bin\Debug\ProyekPV.pdb
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\obj\Debug\ProyekPV.csprojAssemblyReference.cache
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\obj\Debug\ProyekPV.Form1.resources
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\obj\Debug\ProyekPV.Properties.Resources.resources
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\obj\Debug\ProyekPV.csproj.GenerateResource.cache
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\obj\Debug\ProyekPV.csproj.CoreCompileInputs.cache
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\obj\Debug\ProyekPV.exe
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\ProyekPV\ProyekPV\obj\Debug\ProyekPV.pdb
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\bin\Debug\ProyekPV.exe.config
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\bin\Debug\ProyekPV.exe
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\bin\Debug\ProyekPV.pdb
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.csprojAssemblyReference.cache
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.Form1.resources
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.Properties.Resources.resources
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.csproj.GenerateResource.cache
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.csproj.CoreCompileInputs.cache
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.exe
+D:\Sandy\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.pdb
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\bin\Debug\ProyekPV.exe.config
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\bin\Debug\ProyekPV.exe
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\bin\Debug\ProyekPV.pdb
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.csprojAssemblyReference.cache
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.Form1.resources
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.Properties.Resources.resources
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.csproj.GenerateResource.cache
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.exe
+E:\Kuliah\Semester 3\_Proyek\resource\PV\test\testMoveMap\ProyekPV\obj\Debug\ProyekPV.pdb
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\obj\Debug\ProyekPV.csprojAssemblyReference.cache
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\obj\Debug\ProyekPV.Form1.resources
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\obj\Debug\ProyekPV.csproj.GenerateResource.cache
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\obj\Debug\ProyekPV.exe
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\obj\Debug\ProyekPV.pdb
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\bin\Debug\ProyekPV.exe.config
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\bin\Debug\ProyekPV.exe
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\bin\Debug\ProyekPV.pdb
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\obj\Debug\ProyekPV.Properties.Resources.resources
+E:\Kuliah\Semester 3\_Proyek\workspace\PV\ProyekPV\obj\Debug\ProyekPV.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\Proyek PV\ProyekPV\bin\Debug\ProyekPV.exe.config
+D:\Materi Kuliah\Proyek PV\ProyekPV\bin\Debug\ProyekPV.exe
+D:\Materi Kuliah\Proyek PV\ProyekPV\bin\Debug\ProyekPV.pdb
+D:\Materi Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.csprojAssemblyReference.cache
+D:\Materi Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.Form1.resources
+D:\Materi Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.Properties.Resources.resources
+D:\Materi Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.csproj.GenerateResource.cache
+D:\Materi Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.exe
+D:\Materi Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.pdb
+D:\Project Kuliah\Proyek PV\ProyekPV\bin\Debug\ProyekPV.exe.config
+D:\Project Kuliah\Proyek PV\ProyekPV\bin\Debug\ProyekPV.exe
+D:\Project Kuliah\Proyek PV\ProyekPV\bin\Debug\ProyekPV.pdb
+D:\Project Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.csprojAssemblyReference.cache
+D:\Project Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.Form1.resources
+D:\Project Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.Properties.Resources.resources
+D:\Project Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.csproj.GenerateResource.cache
+D:\Project Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.csproj.CoreCompileInputs.cache
+D:\Project Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.exe
+D:\Project Kuliah\Proyek PV\ProyekPV\obj\Debug\ProyekPV.pdb
